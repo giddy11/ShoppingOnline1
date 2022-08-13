@@ -1,0 +1,6 @@
+*.log
+*.mdf
+*.ldf
+
+/bin/
+/debug/
